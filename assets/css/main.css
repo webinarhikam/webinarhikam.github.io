@@ -162,6 +162,13 @@ ul li, ol li {
   border-radius: 4px;
 }
 
+.btn-zoom {
+  background-color: #1e4de9;
+  position: relative;
+  z-index: 1;
+  border-radius: 4px;
+}
+
 .btn-common:hover {
   color: #fff;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
